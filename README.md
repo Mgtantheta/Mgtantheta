@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=300&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&repeat=false&width=200&height=30&lines=Mobile+Developer" alt="Mobile Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=300&size=16&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&repeat=false&width=200&height=30&lines=Mobile+Developer" alt="Mobile Developer" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=300&size=14&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Building+thoughtful+mobile+experiences" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=300&size=14&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Building+thoughtful+mobile+experiences" alt="tagline" />
 </p>
 
 <p align="center">
-  <strong>Android</strong>&nbsp;&nbsp;·&nbsp;&nbsp;<strong>Flutter</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=400&size=14&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&repeat=false&width=250&height=30&lines=Android+%C2%B7+Flutter" alt="skills" />
 </p>
 
 <br>
