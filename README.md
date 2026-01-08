@@ -35,7 +35,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mgtantheta&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&icon_color=000&text_color=000&bg_color=00000000" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mgtantheta&theme=default" />
 </p>
 
 <br>
