@@ -1,14 +1,19 @@
-<h1 align="center">muraki</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=200&height=50&lines=muraki" alt="muraki" />
+</p>
 
 <p align="center">
-  <em>Mobile Developer</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=300&size=16&duration=3000&pause=1000&color=666666&center=true&vCenter=true&repeat=false&width=200&height=30&lines=Mobile+Developer" alt="Mobile Developer" />
 </p>
 
 <br>
 
 <p align="center">
-  Building thoughtful mobile experiences with<br>
-  <strong>Android</strong> · <strong>Flutter</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=300&size=14&duration=3000&pause=1000&color=333333&center=true&vCenter=true&repeat=false&width=350&height=40&lines=Building+thoughtful+mobile+experiences" alt="tagline" />
+</p>
+
+<p align="center">
+  <strong>Android</strong>&nbsp;&nbsp;·&nbsp;&nbsp;<strong>Flutter</strong>
 </p>
 
 <br>
