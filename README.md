@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=300&size=16&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&repeat=false&width=200&height=30&lines=Mobile+Developer" alt="Mobile Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=300&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&repeat=false&width=200&height=30&lines=Mobile+Developer" alt="Mobile Developer" />
 </p>
 
 <br>
